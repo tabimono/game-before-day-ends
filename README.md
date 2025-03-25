@@ -20,7 +20,7 @@
 3. Run the game.
 
 ## Screenshot
-![Game Screenshot](assets/screenshot.jpg)
+![Game Screenshot](./screenshot.jpg)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
